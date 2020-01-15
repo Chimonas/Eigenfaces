@@ -16,3 +16,5 @@
 Still didn't start on the paper. <br />
 
 ![](./Capture.PNG =350)
+<img src="Capture.PNG" alt="drawing" width="350"/>
+
