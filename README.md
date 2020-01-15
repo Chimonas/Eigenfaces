@@ -14,3 +14,5 @@
  
   
 Still didn't start on the paper. <br />
+
+[!Steps on Paper](https://github.com/Chimonas/Eigenfaces/blob/master/Capture.PNG)
