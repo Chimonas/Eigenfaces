@@ -7,10 +7,10 @@
   Preprocess the data (fnames: indian_faces and data) and saves them to a new file<br />
  
 ## Goals:
-  * Preprocess data and put them in a file (Done)<br />
-  * Implement PCA and N-PCA - procedures for dimensionality reduction by identifing the most importantt features (eigenvalues)<br />
-  * Implement eigenfaces using both methods<br />
-  * Implement different classification algorithms (KNN, CNN, probablistic)<br />
+  1. Preprocess data and put them in a file (Done)<br />
+  1. Implement PCA and N-PCA - procedures for dimensionality reduction by identifing the most importantt features (eigenvalues)<br />
+  1. Implement eigenfaces using both methods<br />
+  1. Implement different classification algorithms (KNN, CNN, probablistic)<br />
  
   
 Still didn't start on the paper. <br />
