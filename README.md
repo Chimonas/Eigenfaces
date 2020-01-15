@@ -15,6 +15,4 @@
   
 Still didn't start on the paper. <br />
 
-<img src="Capture.PNG" alt="drawing" width="350"/>
-Currently on the Pre processing phace
-
+<img src="Capture.PNG" alt="drawing" width="350"/> Currently on the Pre processing phace
