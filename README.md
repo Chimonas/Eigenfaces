@@ -15,4 +15,4 @@
   
 Still didn't start on the paper. <br />
 
-![](https://github.com/Chimonas/Eigenfaces/blob/master/Capture.PNG =350)
+![](./Capture.PNG =350)
