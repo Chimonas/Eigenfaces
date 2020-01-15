@@ -2,7 +2,7 @@
 
 ## First push:
 **facealigner:**
-  Contains a function that takes a picture and resizes, crops, rotates the picture with the face centered. Utilizes OpenCV and dLib
+  Contains a function that takes a picture and resizes, crops, rotates the picture with the face centered. Utilizes OpenCV and dLib \n
   **dataImporting:**
   Preprocess the data (fnames: indian_faces and data) and saves them to a new file
  
